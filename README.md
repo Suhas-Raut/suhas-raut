@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suhas Raut.</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
 - 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Web Developement And Artificial Intelligence.**
