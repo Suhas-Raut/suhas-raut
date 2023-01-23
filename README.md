@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Suhas Raut.<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> </h1>
 <h3 align="center">A Passionate Python Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="coding" width="400" src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Suhas-Raut.Suhas-Raut)
 
