@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning about **Web Developement And Artificial Intelligence.**
+- 🌱 And I’m learning about **Web Developement And Artificial Intelligence.**
 
 - 📫 Reach Me Via **suhasraut24@gmail.com**
 
