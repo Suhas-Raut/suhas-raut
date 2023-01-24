@@ -1,6 +1,6 @@
 ![logo](https://github.com/Suhas-Raut/suhas-raut/blob/main/banner.png)
 <h1 align="center">Hello, I'm Suhas Raut.<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> </h1>
-<h3 align="center">A Passionate Python Developer from India</h3>
+<h3 align="center">I'm Python Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
 
@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/phoenixx24" target="blank"><img align="center" src= "https://cdn.codechef.com/images/cc-logo.svg" alt="phoenixx24" height="40" width="100" /></a>
 <a href="https://www.leetcode.com/phoenixx24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phoenixx24" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/suhasraut" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="phoenixx24" height="30" width="80" /></a>
 </p>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 35px>
@@ -56,7 +57,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  
  
-## ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </p>
 
  
