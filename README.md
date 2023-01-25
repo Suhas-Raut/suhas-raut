@@ -1,4 +1,6 @@
-![logo](https://github.com/Suhas-Raut/suhas-raut/blob/main/banner.png)
+<a href="https://github.com/Suhas-Raut/">
+  <img align="center"    src="https://github.com/Suhas-Raut/suhas-raut/blob/main/SR.gif?raw=true" />
+</a>
 <h1 align="center">Hello, I'm Suhas Raut.<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> </h1>
 <h3 align="center">I'm Python Developer from India</h3>
 
