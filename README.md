@@ -23,6 +23,7 @@
 <h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/phoenixx24" target="blank"><img align="center" src= "https://cdn.codechef.com/images/cc-logo.svg" alt="phoenixx24" height="40" width="100" /></a>
+  <a href="https://leetcode.com/u/phoenixx24/" target="blank"><img align="center" src= "https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" alt="phoenixx24" height="40" width="100" /></a>
 </p>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 35px>
