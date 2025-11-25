@@ -6,8 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Suhas-Raut.Suhas-Raut&left_color=%238031a7&right_color=%23697689&left_text=Visitors)
-
 - 🔭 I’m currently working on **Web Development Projects**
 
 - 🌱 And I’m learning about **Web Developement And Artificial Intelligence.**
