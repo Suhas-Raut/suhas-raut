@@ -6,9 +6,9 @@
 
 <img align="right" alt="coding" width="400" src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **projects and looking fir Internships or Developer Roles**
 
-- 🌱 And I’m learning about **Web Developement And Artificial Intelligence.**
+- 🌱 And I’m learning about **Machine Learning, Kubernetes, CI/CD**
 
 - 📫 Reach Me Via **suhasraut24@gmail.com**
 
