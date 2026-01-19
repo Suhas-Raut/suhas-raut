@@ -39,7 +39,7 @@
 ## 🧠 Tech Stack
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -49,7 +49,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 ### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -68,7 +68,7 @@
 </tr>
 
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 ### 🤖 Machine Learning & CS
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -78,7 +78,7 @@
 ![AI](https://img.shields.io/badge/AI-Search%20%7C%20Evaluation-purple)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
