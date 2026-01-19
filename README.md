@@ -25,6 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-raut)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/suhasraut24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://suhas-raut.github.io/Portfolio-Website/index.html)
 
 
 ---
@@ -117,7 +118,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="36%">
 
 ### ♟️ DELTA-CE (Chess Engine)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE) <br>
