@@ -203,13 +203,15 @@
 ### Web Development & Designing Intern  
 **Oasis Infobyte** (Jan 2026 – Present)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Crustify-black?logo=github)](https://github.com/Suhas-Raut/Crustify)
+
 - Working on **Crustify - A Pizza Delivery App Project** 
 - ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Crustify-black?logo=github)](https://github.com/Suhas-Raut/Crustify)
+
 
 
 ---
