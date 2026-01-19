@@ -13,11 +13,15 @@
 <img align="right" alt="coding" width="400"
   src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
 
-- 🔭 Currently working on **Projects** and looking for **Internships / Developer Roles**
-- 🌱 Learning **Machine Learning, Kubernetes & CI/CD**
+- 🔭 Currently working as a **Web Development Intern at Oasis Infobyte**, building real-world projects  
+- 🌱 Actively learning **DSA, Core Subjects as well as AI**  
+- 🧠 Solving **DSA problems on LeetCode & CodeChef** and consistently revising core CS concepts  
+- 🎯 Focused on **preparing for full-time Developer roles** and aiming to secure a job **next month**  
 - 📫 Reach me at **suhasraut24@gmail.com**
 
+
 ---
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-raut)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/suhasraut24)
@@ -31,6 +35,7 @@
 
 
 ---
+
 ## 🧠 Tech Stack
 <table width="100%">
 <tr>
