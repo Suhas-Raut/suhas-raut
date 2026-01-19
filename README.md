@@ -111,6 +111,8 @@
 <td valign="top" width="33%">
 
 ### 🧩 Crustify
+- **A Pizza Delivery App Project**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Crustify) <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -120,7 +122,9 @@
 </td>
 <td valign="top" width="36%">
 
-### ♟️ DELTA-CE (Chess Engine)
+### ♟️ DELTA-CE 
+- **A Machine Learning Chess-Engine**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE) <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -130,6 +134,8 @@
 <td valign="top" width="33%">
 
 ### 🧭 Pathfinding Visualizer
+- **An algorithm visualization project**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/pathfinding-visualizer-react)  <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Visualization-orange)
@@ -140,6 +146,8 @@
 <td valign="top" width="33%">
 
 ### 🔢 Sorting Visualizer
+- **An algorithm visualization project**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/sorting-visualizer-react) <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Visualization-orange)
@@ -148,6 +156,8 @@
 <td valign="top" width="33%">
 
 ### 💸 Expense-Note
+- **A Full Stack Income & Expense Tracker**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Expense-Note)  <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -158,6 +168,8 @@
 <td valign="top" width="33%">
 
 ### 🔄 LeetSync
+- **It's an Leetcode DSA solved problem sync tool**.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/LeetSync) <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
