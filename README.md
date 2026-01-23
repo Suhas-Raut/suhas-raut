@@ -4,11 +4,7 @@
 </a>
 
 <h1 align="center">
-  Hello, I'm Suhas Raut 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
 </h1>
-
-<h3 align="center">Web Developer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400"
   src="https://img4.goodfon.com/wallpaper/nbig/3/38/the-world-at-night-pomeshchenie-khaker-kompiuter.jpg">
@@ -16,8 +12,8 @@
 - 🔭 Currently working as a **Web Development Intern at Oasis Infobyte**, building real-world projects  
 - 🌱 Actively learning **DSA, Core Subjects as well as AI**  
 - 🧠 Solving **DSA problems on LeetCode & CodeChef** and consistently revising core CS concepts  
-- 🎯 Focused on **preparing for full-time Developer roles** and aiming to secure a job **next month**  
-- 📫 Reach me at **suhasraut24@gmail.com**
+- 🎯 Focused on **preparing for full-time Developer roles** and aiming to secure a job **In February 2026**  
+- 📫 Reach me out at **suhasraut24@gmail.com**
 
 
 ---
@@ -63,7 +59,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
-
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
 </td>
 </tr>
@@ -85,11 +81,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![MongoDB%20Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
@@ -163,6 +161,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Charts-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
+
 
 </td>
 <td valign="top" width="33%">
