@@ -111,7 +111,7 @@
 ### 🧩 Crustify
 - **A Pizza Delivery App Project**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Crustify) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Crustify) [![Vercel Live](https://img.shields.io/badge/Vercel-Live-22c55e?logo=vercel&logoColor=white&labelColor=000000)](https://crustify-one.vercel.app/)<br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -123,7 +123,7 @@
 ### ♟️ DELTA-CE 
 - **A Machine Learning Chess-Engine**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE)  <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Modeling-blue)
