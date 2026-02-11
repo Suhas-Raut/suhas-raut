@@ -123,7 +123,7 @@
 ### ♟️ DELTA-CE 
 - **A Machine Learning Chess-Engine**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE)  <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/DELTA-CE) [![Vercel Live](https://img.shields.io/badge/Vercel-Live-22c55e?logo=vercel&logoColor=white&labelColor=000000)](https://delta-ce.vercel.app/) <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Modeling-blue)
@@ -134,7 +134,8 @@
 ### 🧭 Pathfinding Visualizer
 - **An algorithm visualization project**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/pathfinding-visualizer-react)  <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/pathfinding-visualizer-react)  [![GitHub Pages Live](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?logo=github\&logoColor=white\&labelColor=000000)](https://suhas-raut.github.io/pathfinding-visualizer-react/)
+<br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Visualization-orange)
 
@@ -144,9 +145,9 @@
 <td valign="top" width="33%">
 
 ### 🔢 Sorting Visualizer
-- **An algorithm visualization project**.
+- **An algorithm visualization project**.   
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/sorting-visualizer-react) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/sorting-visualizer-react) [![GitHub Pages Live](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?logo=github\&logoColor=white\&labelColor=000000)](https://suhas-raut.github.io/sorting-visualizer-react/) <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Visualization-orange)
 
@@ -154,9 +155,10 @@
 <td valign="top" width="33%">
 
 ### 💸 Expense-Note
-- **A Full Stack Income & Expense Tracker**.
+- **A Full Stack Income & Expense Tracker**.   
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Expense-Note)  <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Suhas-Raut/Expense-Note)  [![Netlify Live](https://img.shields.io/badge/Netlify-Live-22c55e?logo=netlify\&logoColor=white\&labelColor=000000)](https://exp-notes.netlify.app/)
+ <br>
 ![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
